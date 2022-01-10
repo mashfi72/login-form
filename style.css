@@ -7,6 +7,10 @@ nav a {
   font-size: 1.5em;
   margin-right: 15px;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+}
 .login-container {
   display: flex;
   justify-content: center;
